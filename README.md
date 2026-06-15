@@ -1,2 +1,2 @@
-# joshua.jenkins02
+# About me
 My personal repository
